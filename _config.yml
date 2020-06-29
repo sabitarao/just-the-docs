@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: moja global
 description: Moja global software, the Full Lands Integration Tool (FLINT), is an MRV tool for making emission estimation systems for the land sector achievable by all countries.
-baseurl: "/just-the-docs" # the subpath of your site, e.g. /blog
+baseurl: "/mojaglobal" # the subpath of your site, e.g. /blog
 url: "https://sabitarao.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
