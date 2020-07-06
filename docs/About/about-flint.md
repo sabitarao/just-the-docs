@@ -27,3 +27,12 @@ The FLINT is using the lessons learned from first generation tools, to build a n
 
 ## Technical design and development
 
+Basic Concepts of the FLINT Framework such as Modules & Module Systems.
++ Simulation Units
++ Pools
++ Operations
++ Processes
++ Events
++ Timing
++ Modules
++ FLINT Implementation
